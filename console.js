@@ -271,5 +271,5 @@ function isLosing(matrix) {//проверка на проигрышь
         }
     }
 
-    return false
+    
   }
